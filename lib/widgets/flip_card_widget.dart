@@ -1,3 +1,7 @@
+//
+// ChatGPT Question: Act as Flutter expert, create a Widget name as FlipCardWidget with these features:
+// 1. When user click on it, it will apply an animation: flip from left to right around the center in 1 second
+//
 import 'dart:math';
 import 'package:flutter/material.dart';
 
